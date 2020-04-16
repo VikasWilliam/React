@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+div{
+
+  text-align: center;
+  color: black;
+}
+body{
+
+  background-color: coral;
+}
+.person{
+  display: inline-block;
+  margin: 15px;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+  width: 500px;
+  padding: 20px;
+}
+
+.person2{
+  display: inline-block;
+  margin: 15px;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+  width: 400px;
+  padding: 20px;
+}
+button{
+  width: 100px;
+}
+input{
+  border-radius: 5px;
+  padding-left: 10px;
+}
